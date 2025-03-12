@@ -539,9 +539,27 @@ option {
     margin-left: 0rem;
   }
   .hero-feature-title {
+    font-size: 3.5rem;
     width: 100%;
     justify-content: center;
     align-items: center;
+  }
+  .feature-img1 img,
+  .feature-img2 img {
+    display: flex;
+  }
+  .feature-img3 img {
+    display: flex;
+  }
+
+  .hero-features-images {
+    padding: 0 0.5rem;
+    margin-top: 4rem;
+    margin-left: 0.8rem;
+  }
+  .hero-feature-image {
+    height: 300px;
+    width: 200px;
   }
   .btn-explore-events {
     margin: auto;
@@ -662,11 +680,13 @@ option {
 
   .feature-img1 img,
   .feature-img2 img {
-    width: 5rem;
+    width: 4rem;
     display: flex;
+    margin: 0 0.5rem;
   }
   .feature-img3 img {
-    width: 10rem;
+    margin: 0 0.5rem;
+    width: 9rem;
     height: 3rem;
     display: flex;
   }
@@ -694,7 +714,9 @@ option {
     justify-content: center;
   }
   .hero-features-images {
+    padding: 0 0.5rem;
     margin-top: 4rem;
+    margin-left: 0.8rem;
   }
   .hero-feature-image {
     height: 250px;
@@ -702,6 +724,7 @@ option {
     border-radius: 80px;
     overflow: hidden;
     object-fit: cover;
+    margin-right: 0.5rem;
   }
   .events-page {
     margin-top: 6rem;
