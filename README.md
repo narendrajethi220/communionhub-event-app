@@ -26,10 +26,10 @@ A React web application for discovering, filtering, and adding community events.
 2. Navigate into the project directory
    cd communionhub-event-app
 
-3.Install dependencies:
+3. Install dependencies:
    npm install
 
-4.Start the development server:
+4. Start the development server:
    npm start
 
 🎨 Technologies Used
