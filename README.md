@@ -15,7 +15,7 @@ A React web application for discovering, filtering, and adding community events.
 
 ## 🚀 Live Demo  
 
-🔗 **[https://communionhub-events-app-narendrajethi.netlify.app/](#)** _(Deployed on Netlify)_
+🔗 https://communionhub-events-app-narendrajethi.netlify.app/ _(Deployed on Netlify)_
 
 ## 📂 Installation & Setup
 
