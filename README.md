@@ -21,7 +21,7 @@ A React web application for discovering, filtering, and adding community events.
 
 1. Clone the repository:  
    ```sh
-  git@github.com:narendrajethi220/communionhub-event-app.git
+   git@github.com:narendrajethi220/communionhub-event-app.git
 
 2. Navigate into the project directory
    cd communionhub-event-app
