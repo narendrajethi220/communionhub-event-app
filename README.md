@@ -1,12 +1,41 @@
-# React + Vite
+# CommunionHub Event App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React web application for discovering, filtering, and adding community events. 
 
-Currently, two official plugins are available:
+## 🌟 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Home Page**  
+  - introduction about the Communion App  
+  - Hero section with a CTA button to explore events  
 
-## Expanding the ESLint configuration
+- **Event Listing Page**  
+  - Displays a list of events (Title, Date, Location, Description)  
+  - Filter events by category (Religious, Social, Charity)  
+  - Add new events using a simple form  
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Live Demo  
+
+🔗 **[https://communionhub-events-app-narendrajethi.netlify.app/](#)** _(Deployed on Netlify)_
+
+## 📂 Installation & Setup
+
+1. Clone the repository:  
+   ```sh
+  git@github.com:narendrajethi220/communionhub-event-app.git
+
+2. Navigate into the project directory
+   cd communionhub-event-app
+
+3.Install dependencies:
+   npm install
+
+4.Start the development server:
+   npm start
+
+🎨 Technologies Used
+    React.js
+    CSS
+    React Router
+    
+📌 Reference
+Inspired by CommunionHub.
